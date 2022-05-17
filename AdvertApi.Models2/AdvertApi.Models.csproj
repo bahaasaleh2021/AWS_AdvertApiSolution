@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>Bahaa Saleh</Authors>
+    <Company>None</Company>
+    <PackageId>AdvertApi.Models.22072021</PackageId>
+    <Version>0.0.1</Version>
+  </PropertyGroup>
+
+</Project>
